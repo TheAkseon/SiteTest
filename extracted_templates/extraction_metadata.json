@@ -1,0 +1,1565 @@
+{
+  "base_url": "https://agentdom.100200.ru",
+  "extraction_time": "2025-09-29 23:08:48",
+  "total_files": 195,
+  "files": [
+    {
+      "url": "https://agentdom.100200.ru/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2",
+      "filename": "style.min.css",
+      "path": "extracted_templates\\other\\style.min.css",
+      "size": 116345,
+      "type": "other",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/css/main.css?ver=6.8.2",
+      "filename": "main.css",
+      "path": "extracted_templates\\other\\main.css",
+      "size": 454647,
+      "type": "other",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css?ver=6.8.2",
+      "filename": "fancybox.css",
+      "path": "extracted_templates\\other\\fancybox.css",
+      "size": 15598,
+      "type": "other",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js?ver=1.0.0",
+      "filename": "fancybox.umd.js",
+      "path": "extracted_templates\\other\\fancybox.umd.js",
+      "size": 105639,
+      "type": "other",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/js/main.js?ver=1.0.0",
+      "filename": "main.js",
+      "path": "extracted_templates\\other\\main.js",
+      "size": 325492,
+      "type": "other",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/js/script.js?ver=1.0.0",
+      "filename": "script.js",
+      "path": "extracted_templates\\other\\script.js",
+      "size": 978,
+      "type": "other",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.min.js",
+      "filename": "jquery.mask.min.js",
+      "path": "extracted_templates\\js\\jquery.mask.min.js",
+      "size": 8327,
+      "type": "js",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery.maskedinput/1.4.1/jquery.maskedinput.min.js",
+      "filename": "jquery.maskedinput.min.js",
+      "path": "extracted_templates\\js\\jquery.maskedinput.min.js",
+      "size": 4324,
+      "type": "js",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/05/load.svg",
+      "filename": "load.svg",
+      "path": "extracted_templates\\images\\load.svg",
+      "size": 634,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/11/whats-app.png",
+      "filename": "whats-app.png",
+      "path": "extracted_templates\\images\\whats-app.png",
+      "size": 995,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/11/telegram.png",
+      "filename": "telegram.png",
+      "path": "extracted_templates\\images\\telegram.png",
+      "size": 918,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2024/06/1.jpg",
+      "filename": "1.jpg",
+      "path": "extracted_templates\\images\\1.jpg",
+      "size": 125671,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/05/12.svg",
+      "filename": "12.svg",
+      "path": "extracted_templates\\images\\12.svg",
+      "size": 728,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/05/12.svg",
+      "filename": "12.svg",
+      "path": "extracted_templates\\images\\12.svg",
+      "size": 728,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/05/12.svg",
+      "filename": "12.svg",
+      "path": "extracted_templates\\images\\12.svg",
+      "size": 728,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/11/arrow-top-right.svg",
+      "filename": "arrow-top-right.svg",
+      "path": "extracted_templates\\images\\arrow-top-right.svg",
+      "size": 283,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/05/118.png",
+      "filename": "118.png",
+      "path": "extracted_templates\\images\\118.png",
+      "size": 58158,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/05/211.png",
+      "filename": "211.png",
+      "path": "extracted_templates\\images\\211.png",
+      "size": 47119,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/05/38.png",
+      "filename": "38.png",
+      "path": "extracted_templates\\images\\38.png",
+      "size": 64756,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/05/43.png",
+      "filename": "43.png",
+      "path": "extracted_templates\\images\\43.png",
+      "size": 76011,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/115.png",
+      "filename": "115.png",
+      "path": "extracted_templates\\images\\115.png",
+      "size": 122935,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/video-icon.svg",
+      "filename": "video-icon.svg",
+      "path": "extracted_templates\\images\\video-icon.svg",
+      "size": 327,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/115.png",
+      "filename": "115.png",
+      "path": "extracted_templates\\images\\115.png",
+      "size": 122935,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/115.png",
+      "filename": "115.png",
+      "path": "extracted_templates\\images\\115.png",
+      "size": 122935,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/115.png",
+      "filename": "115.png",
+      "path": "extracted_templates\\images\\115.png",
+      "size": 122935,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/115.png",
+      "filename": "115.png",
+      "path": "extracted_templates\\images\\115.png",
+      "size": 122935,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/116.png",
+      "filename": "116.png",
+      "path": "extracted_templates\\images\\116.png",
+      "size": 135283,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/video-icon.svg",
+      "filename": "video-icon.svg",
+      "path": "extracted_templates\\images\\video-icon.svg",
+      "size": 327,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/116.png",
+      "filename": "116.png",
+      "path": "extracted_templates\\images\\116.png",
+      "size": 135283,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/116.png",
+      "filename": "116.png",
+      "path": "extracted_templates\\images\\116.png",
+      "size": 135283,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/116.png",
+      "filename": "116.png",
+      "path": "extracted_templates\\images\\116.png",
+      "size": 135283,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/116.png",
+      "filename": "116.png",
+      "path": "extracted_templates\\images\\116.png",
+      "size": 135283,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/117.png",
+      "filename": "117.png",
+      "path": "extracted_templates\\images\\117.png",
+      "size": 103927,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/video-icon.svg",
+      "filename": "video-icon.svg",
+      "path": "extracted_templates\\images\\video-icon.svg",
+      "size": 327,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/117.png",
+      "filename": "117.png",
+      "path": "extracted_templates\\images\\117.png",
+      "size": 103927,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/117.png",
+      "filename": "117.png",
+      "path": "extracted_templates\\images\\117.png",
+      "size": 103927,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/117.png",
+      "filename": "117.png",
+      "path": "extracted_templates\\images\\117.png",
+      "size": 103927,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/117.png",
+      "filename": "117.png",
+      "path": "extracted_templates\\images\\117.png",
+      "size": 103927,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/115.png",
+      "filename": "115.png",
+      "path": "extracted_templates\\images\\115.png",
+      "size": 122935,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/video-icon.svg",
+      "filename": "video-icon.svg",
+      "path": "extracted_templates\\images\\video-icon.svg",
+      "size": 327,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/115.png",
+      "filename": "115.png",
+      "path": "extracted_templates\\images\\115.png",
+      "size": 122935,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/115.png",
+      "filename": "115.png",
+      "path": "extracted_templates\\images\\115.png",
+      "size": 122935,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/115.png",
+      "filename": "115.png",
+      "path": "extracted_templates\\images\\115.png",
+      "size": 122935,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/115.png",
+      "filename": "115.png",
+      "path": "extracted_templates\\images\\115.png",
+      "size": 122935,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/116.png",
+      "filename": "116.png",
+      "path": "extracted_templates\\images\\116.png",
+      "size": 135283,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/video-icon.svg",
+      "filename": "video-icon.svg",
+      "path": "extracted_templates\\images\\video-icon.svg",
+      "size": 327,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/116.png",
+      "filename": "116.png",
+      "path": "extracted_templates\\images\\116.png",
+      "size": 135283,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/116.png",
+      "filename": "116.png",
+      "path": "extracted_templates\\images\\116.png",
+      "size": 135283,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/116.png",
+      "filename": "116.png",
+      "path": "extracted_templates\\images\\116.png",
+      "size": 135283,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/116.png",
+      "filename": "116.png",
+      "path": "extracted_templates\\images\\116.png",
+      "size": 135283,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/117.png",
+      "filename": "117.png",
+      "path": "extracted_templates\\images\\117.png",
+      "size": 103927,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/video-icon.svg",
+      "filename": "video-icon.svg",
+      "path": "extracted_templates\\images\\video-icon.svg",
+      "size": 327,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/117.png",
+      "filename": "117.png",
+      "path": "extracted_templates\\images\\117.png",
+      "size": 103927,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/117.png",
+      "filename": "117.png",
+      "path": "extracted_templates\\images\\117.png",
+      "size": 103927,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/117.png",
+      "filename": "117.png",
+      "path": "extracted_templates\\images\\117.png",
+      "size": 103927,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/117.png",
+      "filename": "117.png",
+      "path": "extracted_templates\\images\\117.png",
+      "size": 103927,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/11/arrow-top-right.svg",
+      "filename": "arrow-top-right.svg",
+      "path": "extracted_templates\\images\\arrow-top-right.svg",
+      "size": 283,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/hit-icon.svg",
+      "filename": "hit-icon.svg",
+      "path": "extracted_templates\\images\\hit-icon.svg",
+      "size": 501,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/sale-icon.svg",
+      "filename": "sale-icon.svg",
+      "path": "extracted_templates\\images\\sale-icon.svg",
+      "size": 1769,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/new-icon.svg",
+      "filename": "new-icon.svg",
+      "path": "extracted_templates\\images\\new-icon.svg",
+      "size": 520,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma45.png",
+      "filename": "forma45.png",
+      "path": "extracted_templates\\images\\forma45.png",
+      "size": 52399,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma45.png",
+      "filename": "forma45.png",
+      "path": "extracted_templates\\images\\forma45.png",
+      "size": 52399,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma45.png",
+      "filename": "forma45.png",
+      "path": "extracted_templates\\images\\forma45.png",
+      "size": 52399,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma45.png",
+      "filename": "forma45.png",
+      "path": "extracted_templates\\images\\forma45.png",
+      "size": 52399,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma45.png",
+      "filename": "forma45.png",
+      "path": "extracted_templates\\images\\forma45.png",
+      "size": 52399,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/hit-icon.svg",
+      "filename": "hit-icon.svg",
+      "path": "extracted_templates\\images\\hit-icon.svg",
+      "size": 501,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/sale-icon.svg",
+      "filename": "sale-icon.svg",
+      "path": "extracted_templates\\images\\sale-icon.svg",
+      "size": 1769,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/new-icon.svg",
+      "filename": "new-icon.svg",
+      "path": "extracted_templates\\images\\new-icon.svg",
+      "size": 520,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma46.png",
+      "filename": "forma46.png",
+      "path": "extracted_templates\\images\\forma46.png",
+      "size": 56921,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma46.png",
+      "filename": "forma46.png",
+      "path": "extracted_templates\\images\\forma46.png",
+      "size": 56921,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma46.png",
+      "filename": "forma46.png",
+      "path": "extracted_templates\\images\\forma46.png",
+      "size": 56921,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma46.png",
+      "filename": "forma46.png",
+      "path": "extracted_templates\\images\\forma46.png",
+      "size": 56921,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma46.png",
+      "filename": "forma46.png",
+      "path": "extracted_templates\\images\\forma46.png",
+      "size": 56921,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/hit-icon.svg",
+      "filename": "hit-icon.svg",
+      "path": "extracted_templates\\images\\hit-icon.svg",
+      "size": 501,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/sale-icon.svg",
+      "filename": "sale-icon.svg",
+      "path": "extracted_templates\\images\\sale-icon.svg",
+      "size": 1769,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/new-icon.svg",
+      "filename": "new-icon.svg",
+      "path": "extracted_templates\\images\\new-icon.svg",
+      "size": 520,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma47.png",
+      "filename": "forma47.png",
+      "path": "extracted_templates\\images\\forma47.png",
+      "size": 53363,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma47.png",
+      "filename": "forma47.png",
+      "path": "extracted_templates\\images\\forma47.png",
+      "size": 53363,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma47.png",
+      "filename": "forma47.png",
+      "path": "extracted_templates\\images\\forma47.png",
+      "size": 53363,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma47.png",
+      "filename": "forma47.png",
+      "path": "extracted_templates\\images\\forma47.png",
+      "size": 53363,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma47.png",
+      "filename": "forma47.png",
+      "path": "extracted_templates\\images\\forma47.png",
+      "size": 53363,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/hit-icon.svg",
+      "filename": "hit-icon.svg",
+      "path": "extracted_templates\\images\\hit-icon.svg",
+      "size": 501,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/sale-icon.svg",
+      "filename": "sale-icon.svg",
+      "path": "extracted_templates\\images\\sale-icon.svg",
+      "size": 1769,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/new-icon.svg",
+      "filename": "new-icon.svg",
+      "path": "extracted_templates\\images\\new-icon.svg",
+      "size": 520,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma48.png",
+      "filename": "forma48.png",
+      "path": "extracted_templates\\images\\forma48.png",
+      "size": 61465,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma47.png",
+      "filename": "forma47.png",
+      "path": "extracted_templates\\images\\forma47.png",
+      "size": 53363,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma47.png",
+      "filename": "forma47.png",
+      "path": "extracted_templates\\images\\forma47.png",
+      "size": 53363,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma47.png",
+      "filename": "forma47.png",
+      "path": "extracted_templates\\images\\forma47.png",
+      "size": 53363,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma47.png",
+      "filename": "forma47.png",
+      "path": "extracted_templates\\images\\forma47.png",
+      "size": 53363,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/hit-icon.svg",
+      "filename": "hit-icon.svg",
+      "path": "extracted_templates\\images\\hit-icon.svg",
+      "size": 501,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/sale-icon.svg",
+      "filename": "sale-icon.svg",
+      "path": "extracted_templates\\images\\sale-icon.svg",
+      "size": 1769,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/new-icon.svg",
+      "filename": "new-icon.svg",
+      "path": "extracted_templates\\images\\new-icon.svg",
+      "size": 520,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma45.png",
+      "filename": "forma45.png",
+      "path": "extracted_templates\\images\\forma45.png",
+      "size": 52399,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma45.png",
+      "filename": "forma45.png",
+      "path": "extracted_templates\\images\\forma45.png",
+      "size": 52399,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma45.png",
+      "filename": "forma45.png",
+      "path": "extracted_templates\\images\\forma45.png",
+      "size": 52399,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma45.png",
+      "filename": "forma45.png",
+      "path": "extracted_templates\\images\\forma45.png",
+      "size": 52399,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma45.png",
+      "filename": "forma45.png",
+      "path": "extracted_templates\\images\\forma45.png",
+      "size": 52399,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/hit-icon.svg",
+      "filename": "hit-icon.svg",
+      "path": "extracted_templates\\images\\hit-icon.svg",
+      "size": 501,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/sale-icon.svg",
+      "filename": "sale-icon.svg",
+      "path": "extracted_templates\\images\\sale-icon.svg",
+      "size": 1769,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/new-icon.svg",
+      "filename": "new-icon.svg",
+      "path": "extracted_templates\\images\\new-icon.svg",
+      "size": 520,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma46.png",
+      "filename": "forma46.png",
+      "path": "extracted_templates\\images\\forma46.png",
+      "size": 56921,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma46.png",
+      "filename": "forma46.png",
+      "path": "extracted_templates\\images\\forma46.png",
+      "size": 56921,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma46.png",
+      "filename": "forma46.png",
+      "path": "extracted_templates\\images\\forma46.png",
+      "size": 56921,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma46.png",
+      "filename": "forma46.png",
+      "path": "extracted_templates\\images\\forma46.png",
+      "size": 56921,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma46.png",
+      "filename": "forma46.png",
+      "path": "extracted_templates\\images\\forma46.png",
+      "size": 56921,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/hit-icon.svg",
+      "filename": "hit-icon.svg",
+      "path": "extracted_templates\\images\\hit-icon.svg",
+      "size": 501,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/sale-icon.svg",
+      "filename": "sale-icon.svg",
+      "path": "extracted_templates\\images\\sale-icon.svg",
+      "size": 1769,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/new-icon.svg",
+      "filename": "new-icon.svg",
+      "path": "extracted_templates\\images\\new-icon.svg",
+      "size": 520,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma47.png",
+      "filename": "forma47.png",
+      "path": "extracted_templates\\images\\forma47.png",
+      "size": 53363,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma47.png",
+      "filename": "forma47.png",
+      "path": "extracted_templates\\images\\forma47.png",
+      "size": 53363,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma47.png",
+      "filename": "forma47.png",
+      "path": "extracted_templates\\images\\forma47.png",
+      "size": 53363,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma47.png",
+      "filename": "forma47.png",
+      "path": "extracted_templates\\images\\forma47.png",
+      "size": 53363,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma47.png",
+      "filename": "forma47.png",
+      "path": "extracted_templates\\images\\forma47.png",
+      "size": 53363,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/hit-icon.svg",
+      "filename": "hit-icon.svg",
+      "path": "extracted_templates\\images\\hit-icon.svg",
+      "size": 501,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/sale-icon.svg",
+      "filename": "sale-icon.svg",
+      "path": "extracted_templates\\images\\sale-icon.svg",
+      "size": 1769,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/new-icon.svg",
+      "filename": "new-icon.svg",
+      "path": "extracted_templates\\images\\new-icon.svg",
+      "size": 520,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma48.png",
+      "filename": "forma48.png",
+      "path": "extracted_templates\\images\\forma48.png",
+      "size": 61465,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma47.png",
+      "filename": "forma47.png",
+      "path": "extracted_templates\\images\\forma47.png",
+      "size": 53363,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma47.png",
+      "filename": "forma47.png",
+      "path": "extracted_templates\\images\\forma47.png",
+      "size": 53363,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma47.png",
+      "filename": "forma47.png",
+      "path": "extracted_templates\\images\\forma47.png",
+      "size": 53363,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/03/forma47.png",
+      "filename": "forma47.png",
+      "path": "extracted_templates\\images\\forma47.png",
+      "size": 53363,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/05/catalog-21.png",
+      "filename": "catalog-21.png",
+      "path": "extracted_templates\\images\\catalog-21.png",
+      "size": 122530,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/11/download-2.png",
+      "filename": "download-2.png",
+      "path": "extracted_templates\\images\\download-2.png",
+      "size": 57260,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/11/arrow-top-right.svg",
+      "filename": "arrow-top-right.svg",
+      "path": "extracted_templates\\images\\arrow-top-right.svg",
+      "size": 283,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/check-icon.svg",
+      "filename": "check-icon.svg",
+      "path": "extracted_templates\\images\\check-icon.svg",
+      "size": 680,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/pdf-circle.svg",
+      "filename": "pdf-circle.svg",
+      "path": "extracted_templates\\images\\pdf-circle.svg",
+      "size": 29153,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/10/video-review-1.jpg",
+      "filename": "video-review-1.jpg",
+      "path": "extracted_templates\\images\\video-review-1.jpg",
+      "size": 48208,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/video-icon.svg",
+      "filename": "video-icon.svg",
+      "path": "extracted_templates\\images\\video-icon.svg",
+      "size": 327,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/10/video-review-1.jpg",
+      "filename": "video-review-1.jpg",
+      "path": "extracted_templates\\images\\video-review-1.jpg",
+      "size": 48208,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/video-icon.svg",
+      "filename": "video-icon.svg",
+      "path": "extracted_templates\\images\\video-icon.svg",
+      "size": 327,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/10/video-review-1.jpg",
+      "filename": "video-review-1.jpg",
+      "path": "extracted_templates\\images\\video-review-1.jpg",
+      "size": 48208,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/video-icon.svg",
+      "filename": "video-icon.svg",
+      "path": "extracted_templates\\images\\video-icon.svg",
+      "size": 327,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/slider-prev.svg",
+      "filename": "slider-prev.svg",
+      "path": "extracted_templates\\images\\slider-prev.svg",
+      "size": 297,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/slider-next.svg",
+      "filename": "slider-next.svg",
+      "path": "extracted_templates\\images\\slider-next.svg",
+      "size": 297,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/10/img-review-1.jpg",
+      "filename": "img-review-1.jpg",
+      "path": "extracted_templates\\images\\img-review-1.jpg",
+      "size": 29771,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/10/img-review-1.jpg",
+      "filename": "img-review-1.jpg",
+      "path": "extracted_templates\\images\\img-review-1.jpg",
+      "size": 29771,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/10/img-review-1.jpg",
+      "filename": "img-review-1.jpg",
+      "path": "extracted_templates\\images\\img-review-1.jpg",
+      "size": 29771,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/slider-prev.svg",
+      "filename": "slider-prev.svg",
+      "path": "extracted_templates\\images\\slider-prev.svg",
+      "size": 297,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/slider-next.svg",
+      "filename": "slider-next.svg",
+      "path": "extracted_templates\\images\\slider-next.svg",
+      "size": 297,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/10/phone-review-1.jpg",
+      "filename": "phone-review-1.jpg",
+      "path": "extracted_templates\\images\\phone-review-1.jpg",
+      "size": 64567,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/10/phone-review-1.jpg",
+      "filename": "phone-review-1.jpg",
+      "path": "extracted_templates\\images\\phone-review-1.jpg",
+      "size": 64567,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/10/phone-review-1.jpg",
+      "filename": "phone-review-1.jpg",
+      "path": "extracted_templates\\images\\phone-review-1.jpg",
+      "size": 64567,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/slider-prev.svg",
+      "filename": "slider-prev.svg",
+      "path": "extracted_templates\\images\\slider-prev.svg",
+      "size": 297,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/slider-next.svg",
+      "filename": "slider-next.svg",
+      "path": "extracted_templates\\images\\slider-next.svg",
+      "size": 297,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/10/phone-review-link-1.png",
+      "filename": "phone-review-link-1.png",
+      "path": "extracted_templates\\images\\phone-review-link-1.png",
+      "size": 900,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/10/phone-review-link-2.png",
+      "filename": "phone-review-link-2.png",
+      "path": "extracted_templates\\images\\phone-review-link-2.png",
+      "size": 643,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/05/12.svg",
+      "filename": "12.svg",
+      "path": "extracted_templates\\images\\12.svg",
+      "size": 728,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/05/12.svg",
+      "filename": "12.svg",
+      "path": "extracted_templates\\images\\12.svg",
+      "size": 728,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/05/12.svg",
+      "filename": "12.svg",
+      "path": "extracted_templates\\images\\12.svg",
+      "size": 728,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/05/12.svg",
+      "filename": "12.svg",
+      "path": "extracted_templates\\images\\12.svg",
+      "size": 728,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/05/12.svg",
+      "filename": "12.svg",
+      "path": "extracted_templates\\images\\12.svg",
+      "size": 728,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/05/12.svg",
+      "filename": "12.svg",
+      "path": "extracted_templates\\images\\12.svg",
+      "size": 728,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/05/dog-bg-1.png",
+      "filename": "dog-bg-1.png",
+      "path": "extracted_templates\\images\\dog-bg-1.png",
+      "size": 81770,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/05/19.png",
+      "filename": "19.png",
+      "path": "extracted_templates\\images\\19.png",
+      "size": 89908,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/plus-icon.svg",
+      "filename": "plus-icon.svg",
+      "path": "extracted_templates\\images\\plus-icon.svg",
+      "size": 751,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/05/16.png",
+      "filename": "16.png",
+      "path": "extracted_templates\\images\\16.png",
+      "size": 70730,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/plus-icon.svg",
+      "filename": "plus-icon.svg",
+      "path": "extracted_templates\\images\\plus-icon.svg",
+      "size": 751,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/05/17.png",
+      "filename": "17.png",
+      "path": "extracted_templates\\images\\17.png",
+      "size": 73948,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/plus-icon.svg",
+      "filename": "plus-icon.svg",
+      "path": "extracted_templates\\images\\plus-icon.svg",
+      "size": 751,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/05/18.png",
+      "filename": "18.png",
+      "path": "extracted_templates\\images\\18.png",
+      "size": 99947,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/plus-icon.svg",
+      "filename": "plus-icon.svg",
+      "path": "extracted_templates\\images\\plus-icon.svg",
+      "size": 751,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/slider-prev.svg",
+      "filename": "slider-prev.svg",
+      "path": "extracted_templates\\images\\slider-prev.svg",
+      "size": 297,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/slider-next.svg",
+      "filename": "slider-next.svg",
+      "path": "extracted_templates\\images\\slider-next.svg",
+      "size": 297,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/05/glava.jpg",
+      "filename": "glava.jpg",
+      "path": "extracted_templates\\images\\glava.jpg",
+      "size": 138964,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/10/about-company-certificate-1.jpg",
+      "filename": "about-company-certificate-1.jpg",
+      "path": "extracted_templates\\images\\about-company-certificate-1.jpg",
+      "size": 117151,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/10/about-company-certificate-1.jpg",
+      "filename": "about-company-certificate-1.jpg",
+      "path": "extracted_templates\\images\\about-company-certificate-1.jpg",
+      "size": 117151,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/slider-prev.svg",
+      "filename": "slider-prev.svg",
+      "path": "extracted_templates\\images\\slider-prev.svg",
+      "size": 297,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/slider-next.svg",
+      "filename": "slider-next.svg",
+      "path": "extracted_templates\\images\\slider-next.svg",
+      "size": 297,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/11/telegram.png",
+      "filename": "telegram.png",
+      "path": "extracted_templates\\images\\telegram.png",
+      "size": 918,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/11/whats-app-1.png",
+      "filename": "whats-app-1.png",
+      "path": "extracted_templates\\images\\whats-app-1.png",
+      "size": 995,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/content/viber.png",
+      "filename": "viber.png",
+      "path": "extracted_templates\\images\\viber.png",
+      "size": 1054,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/11/arrow-top-right.svg",
+      "filename": "arrow-top-right.svg",
+      "path": "extracted_templates\\images\\arrow-top-right.svg",
+      "size": 283,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/check-icon.svg",
+      "filename": "check-icon.svg",
+      "path": "extracted_templates\\images\\check-icon.svg",
+      "size": 680,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/05/consult-man1.png",
+      "filename": "consult-man1.png",
+      "path": "extracted_templates\\images\\consult-man1.png",
+      "size": 91858,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/arrow-bottom.svg",
+      "filename": "arrow-bottom.svg",
+      "path": "extracted_templates\\images\\arrow-bottom.svg",
+      "size": 350,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/11/facebook.png",
+      "filename": "facebook.png",
+      "path": "extracted_templates\\images\\facebook.png",
+      "size": 1157,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/11/instagram.png",
+      "filename": "instagram.png",
+      "path": "extracted_templates\\images\\instagram.png",
+      "size": 3426,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/11/vk.png",
+      "filename": "vk.png",
+      "path": "extracted_templates\\images\\vk.png",
+      "size": 1416,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/check-icon.svg",
+      "filename": "check-icon.svg",
+      "path": "extracted_templates\\images\\check-icon.svg",
+      "size": 680,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/05/katalog-1.png",
+      "filename": "katalog-1.png",
+      "path": "extracted_templates\\images\\katalog-1.png",
+      "size": 178770,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2022/11/arrow-top-right.svg",
+      "filename": "arrow-top-right.svg",
+      "path": "extracted_templates\\images\\arrow-top-right.svg",
+      "size": 283,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/check-icon.svg",
+      "filename": "check-icon.svg",
+      "path": "extracted_templates\\images\\check-icon.svg",
+      "size": 680,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/pdf-circle.svg",
+      "filename": "pdf-circle.svg",
+      "path": "extracted_templates\\images\\pdf-circle.svg",
+      "size": 29153,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/uploads/2023/05/download-popup-1.png",
+      "filename": "download-popup-1.png",
+      "path": "extracted_templates\\images\\download-popup-1.png",
+      "size": 260363,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/check-icon.svg",
+      "filename": "check-icon.svg",
+      "path": "extracted_templates\\images\\check-icon.svg",
+      "size": 680,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/check-icon.svg",
+      "filename": "check-icon.svg",
+      "path": "extracted_templates\\images\\check-icon.svg",
+      "size": 680,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/check-icon.svg",
+      "filename": "check-icon.svg",
+      "path": "extracted_templates\\images\\check-icon.svg",
+      "size": 680,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/check-icon.svg",
+      "filename": "check-icon.svg",
+      "path": "extracted_templates\\images\\check-icon.svg",
+      "size": 680,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/check-icon.svg",
+      "filename": "check-icon.svg",
+      "path": "extracted_templates\\images\\check-icon.svg",
+      "size": 680,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/check-icon.svg",
+      "filename": "check-icon.svg",
+      "path": "extracted_templates\\images\\check-icon.svg",
+      "size": 680,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/check-icon.svg",
+      "filename": "check-icon.svg",
+      "path": "extracted_templates\\images\\check-icon.svg",
+      "size": 680,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/check-icon.svg",
+      "filename": "check-icon.svg",
+      "path": "extracted_templates\\images\\check-icon.svg",
+      "size": 680,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/theme/assets/img/general/arrow-top.svg",
+      "filename": "arrow-top.svg",
+      "path": "extracted_templates\\images\\arrow-top.svg",
+      "size": 296,
+      "type": "images",
+      "method": "source_extraction"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/themes/",
+      "filename": "index_wp-content_themes.html",
+      "path": "extracted_templates\\directories\\index_wp-content_themes.html",
+      "size": 0,
+      "method": "common_path"
+    },
+    {
+      "url": "https://agentdom.100200.ru/wp-content/plugins/",
+      "filename": "index_wp-content_plugins.html",
+      "path": "extracted_templates\\directories\\index_wp-content_plugins.html",
+      "size": 0,
+      "method": "common_path"
+    }
+  ]
+}

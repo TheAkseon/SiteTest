@@ -1,0 +1,1141 @@
+{
+  "scan_info": {
+    "timestamp": "2025-10-03T13:52:11.452328",
+    "scanner_version": "2.0",
+    "domains_scanned": [
+      "https://easyclaim.ru",
+      "https://www.easyclaim.ru",
+      "https://app.easyclaim.ru",
+      "https://api.easyclaim.ru"
+    ],
+    "total_domains": 4
+  },
+  "domain_results": {
+    "https://easyclaim.ru": {
+      "basic_info": {
+        "url": "https://easyclaim.ru",
+        "status_code": 200,
+        "server": "nginx/1.29.0",
+        "ip_address": "176.124.218.170",
+        "title": "SyncOnce",
+        "response_time": 0.765059,
+        "content_length": 702,
+        "redirects": 0,
+        "final_url": "https://easyclaim.ru/"
+      },
+      "ssl_security": {
+        "certificate_valid": true,
+        "certificate_version": 3,
+        "issuer": [
+          [
+            [
+              "countryName",
+              "US"
+            ]
+          ],
+          [
+            [
+              "organizationName",
+              "Let's Encrypt"
+            ]
+          ],
+          [
+            [
+              "commonName",
+              "E8"
+            ]
+          ]
+        ],
+        "subject": [
+          [
+            [
+              "commonName",
+              "easyclaim.ru"
+            ]
+          ]
+        ],
+        "valid_from": "Sep 17 22:33:29 2025 GMT",
+        "valid_until": "Dec 16 22:33:28 2025 GMT",
+        "serial_number": "054E4FE6D746CF995A53488FD100BA84039B",
+        "cipher_suite": [
+          "TLS_AES_256_GCM_SHA384",
+          "TLSv1.3",
+          256
+        ],
+        "protocol_version": "TLSv1.3"
+      },
+      "directory_listing": [],
+      "path_traversal": [],
+      "sql_injection": [],
+      "xss_vulnerabilities": [],
+      "csrf_vulnerabilities": [],
+      "admin_panels": [],
+      "sensitive_files": [
+        {
+          "url": "https://easyclaim.ru/robots.txt",
+          "status_code": 200,
+          "content_length": 67,
+          "content_preview": "# https://www.robotstxt.org/robotstxt.html\nUser-agent: *\nDisallow:\n",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/sitemap.xml",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/crossdomain.xml",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/phpinfo.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/info.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/test.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/config.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/database.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/db.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/settings.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/composer.json",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/package.json",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/yarn.lock",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/package-lock.json",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/admin-config.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/wp-config.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/configuration.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/config.json",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/application.properties",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/Thumbs.db",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/backup.sql",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/dump.sql",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        }
+      ],
+      "configuration_issues": [],
+      "technology_identification": {
+        "Web Server": [
+          "Nginx"
+        ],
+        "CMS": [],
+        "Programming Language": [],
+        "JavaScript Framework": [],
+        "CSS Framework": [],
+        "Database": [],
+        "Other": []
+      },
+      "headers_security": {
+        "present_headers": {
+          "X-Content-Type-Options": "nosniff",
+          "X-Frame-Options": "DENY",
+          "X-XSS-Protection": "1; mode=block"
+        },
+        "missing_headers": [
+          "Strict-Transport-Security",
+          "Content-Security-Policy",
+          "Referrer-Policy",
+          "Permissions-Policy"
+        ],
+        "total_security_headers": 3,
+        "missing_security_headers": 4
+      },
+      "cookies_analysis": [],
+      "authentication_issues": [],
+      "injection_attacks": [],
+      "file_upload_vulnerabilities": [],
+      "xml_attacks": [],
+      "command_injection": [],
+      "ldap_injection": [],
+      "template_injection": [],
+      "exposed_endpoints": [
+        {
+          "url": "https://easyclaim.ru/api/",
+          "status_code": 200,
+          "content_type": "text/html",
+          "content_length": 702,
+          "methods_tested": [
+            "GET"
+          ],
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/api/v1/",
+          "status_code": 200,
+          "content_type": "text/html",
+          "content_length": 702,
+          "methods_tested": [
+            "GET"
+          ],
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/api/v2/",
+          "status_code": 200,
+          "content_type": "text/html",
+          "content_length": 702,
+          "methods_tested": [
+            "GET"
+          ],
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/api/v3/",
+          "status_code": 200,
+          "content_type": "text/html",
+          "content_length": 702,
+          "methods_tested": [
+            "GET"
+          ],
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/rest/",
+          "status_code": 200,
+          "content_type": "text/html",
+          "content_length": 702,
+          "methods_tested": [
+            "GET"
+          ],
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://easyclaim.ru/json/",
+          "status_code": 200,
+          "content_type": "text/html",
+          "content_length": 702,
+          "methods_tested": [
+            "GET"
+          ],
+          "severity": "MEDIUM"
+        }
+      ],
+      "api_security": {},
+      "errors": [
+        "test_sql_injection: 0"
+      ]
+    },
+    "https://www.easyclaim.ru": {
+      "basic_info": {
+        "url": "https://www.easyclaim.ru",
+        "status_code": 200,
+        "server": "nginx/1.29.0",
+        "ip_address": "176.124.218.170",
+        "title": "SyncOnce",
+        "response_time": 0.678809,
+        "content_length": 702,
+        "redirects": 0,
+        "final_url": "https://www.easyclaim.ru/"
+      },
+      "ssl_security": {
+        "certificate_valid": true,
+        "certificate_version": 3,
+        "issuer": [
+          [
+            [
+              "countryName",
+              "US"
+            ]
+          ],
+          [
+            [
+              "organizationName",
+              "Let's Encrypt"
+            ]
+          ],
+          [
+            [
+              "commonName",
+              "E8"
+            ]
+          ]
+        ],
+        "subject": [
+          [
+            [
+              "commonName",
+              "easyclaim.ru"
+            ]
+          ]
+        ],
+        "valid_from": "Sep 17 22:33:29 2025 GMT",
+        "valid_until": "Dec 16 22:33:28 2025 GMT",
+        "serial_number": "054E4FE6D746CF995A53488FD100BA84039B",
+        "cipher_suite": [
+          "TLS_AES_256_GCM_SHA384",
+          "TLSv1.3",
+          256
+        ],
+        "protocol_version": "TLSv1.3"
+      },
+      "directory_listing": [],
+      "path_traversal": [],
+      "sql_injection": [],
+      "xss_vulnerabilities": [],
+      "csrf_vulnerabilities": [],
+      "admin_panels": [],
+      "sensitive_files": [
+        {
+          "url": "https://www.easyclaim.ru/robots.txt",
+          "status_code": 200,
+          "content_length": 67,
+          "content_preview": "# https://www.robotstxt.org/robotstxt.html\nUser-agent: *\nDisallow:\n",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/sitemap.xml",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/crossdomain.xml",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/phpinfo.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/info.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/test.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/config.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/database.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/db.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/settings.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/composer.json",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/package.json",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/yarn.lock",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/package-lock.json",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/admin-config.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/wp-config.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/configuration.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/config.json",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/application.properties",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/Thumbs.db",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/backup.sql",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/dump.sql",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        }
+      ],
+      "configuration_issues": [],
+      "technology_identification": {
+        "Web Server": [
+          "Nginx"
+        ],
+        "CMS": [],
+        "Programming Language": [],
+        "JavaScript Framework": [],
+        "CSS Framework": [],
+        "Database": [],
+        "Other": []
+      },
+      "headers_security": {
+        "present_headers": {
+          "X-Content-Type-Options": "nosniff",
+          "X-Frame-Options": "DENY",
+          "X-XSS-Protection": "1; mode=block"
+        },
+        "missing_headers": [
+          "Strict-Transport-Security",
+          "Content-Security-Policy",
+          "Referrer-Policy",
+          "Permissions-Policy"
+        ],
+        "total_security_headers": 3,
+        "missing_security_headers": 4
+      },
+      "cookies_analysis": [],
+      "authentication_issues": [],
+      "injection_attacks": [],
+      "file_upload_vulnerabilities": [],
+      "xml_attacks": [],
+      "command_injection": [],
+      "ldap_injection": [],
+      "template_injection": [],
+      "exposed_endpoints": [
+        {
+          "url": "https://www.easyclaim.ru/api/",
+          "status_code": 200,
+          "content_type": "text/html",
+          "content_length": 702,
+          "methods_tested": [
+            "GET"
+          ],
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/api/v1/",
+          "status_code": 200,
+          "content_type": "text/html",
+          "content_length": 702,
+          "methods_tested": [
+            "GET"
+          ],
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/api/v2/",
+          "status_code": 200,
+          "content_type": "text/html",
+          "content_length": 702,
+          "methods_tested": [
+            "GET"
+          ],
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/api/v3/",
+          "status_code": 200,
+          "content_type": "text/html",
+          "content_length": 702,
+          "methods_tested": [
+            "GET"
+          ],
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/rest/",
+          "status_code": 200,
+          "content_type": "text/html",
+          "content_length": 702,
+          "methods_tested": [
+            "GET"
+          ],
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://www.easyclaim.ru/json/",
+          "status_code": 200,
+          "content_type": "text/html",
+          "content_length": 702,
+          "methods_tested": [
+            "GET"
+          ],
+          "severity": "MEDIUM"
+        }
+      ],
+      "api_security": {},
+      "errors": [
+        "test_sql_injection: 0"
+      ]
+    },
+    "https://app.easyclaim.ru": {
+      "basic_info": {
+        "url": "https://app.easyclaim.ru",
+        "status_code": 200,
+        "server": "nginx/1.29.0",
+        "ip_address": "176.124.218.170",
+        "title": "SyncOnce",
+        "response_time": 0.568341,
+        "content_length": 702,
+        "redirects": 0,
+        "final_url": "https://app.easyclaim.ru/"
+      },
+      "ssl_security": {
+        "certificate_valid": true,
+        "certificate_version": 3,
+        "issuer": [
+          [
+            [
+              "countryName",
+              "US"
+            ]
+          ],
+          [
+            [
+              "organizationName",
+              "Let's Encrypt"
+            ]
+          ],
+          [
+            [
+              "commonName",
+              "E8"
+            ]
+          ]
+        ],
+        "subject": [
+          [
+            [
+              "commonName",
+              "easyclaim.ru"
+            ]
+          ]
+        ],
+        "valid_from": "Sep 17 22:33:29 2025 GMT",
+        "valid_until": "Dec 16 22:33:28 2025 GMT",
+        "serial_number": "054E4FE6D746CF995A53488FD100BA84039B",
+        "cipher_suite": [
+          "TLS_AES_256_GCM_SHA384",
+          "TLSv1.3",
+          256
+        ],
+        "protocol_version": "TLSv1.3"
+      },
+      "directory_listing": [],
+      "path_traversal": [],
+      "sql_injection": [],
+      "xss_vulnerabilities": [],
+      "csrf_vulnerabilities": [],
+      "admin_panels": [],
+      "sensitive_files": [
+        {
+          "url": "https://app.easyclaim.ru/robots.txt",
+          "status_code": 200,
+          "content_length": 67,
+          "content_preview": "# https://www.robotstxt.org/robotstxt.html\nUser-agent: *\nDisallow:\n",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/sitemap.xml",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/crossdomain.xml",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/phpinfo.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/info.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/test.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/config.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/database.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/db.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/settings.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/composer.json",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/package.json",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/yarn.lock",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/package-lock.json",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/admin-config.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/wp-config.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/configuration.php",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/config.json",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/application.properties",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/Thumbs.db",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/backup.sql",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/dump.sql",
+          "status_code": 200,
+          "content_length": 702,
+          "content_preview": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title>SyncOnce</title><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap\"/><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\"/><script src=\"https://telegram.org/js/telegram-web-app.js\"></script><script defer=\"defer\" src=\"/static/js/...",
+          "has_sensitive_data": false,
+          "severity": "MEDIUM"
+        }
+      ],
+      "configuration_issues": [],
+      "technology_identification": {
+        "Web Server": [
+          "Nginx"
+        ],
+        "CMS": [],
+        "Programming Language": [],
+        "JavaScript Framework": [],
+        "CSS Framework": [],
+        "Database": [],
+        "Other": []
+      },
+      "headers_security": {
+        "present_headers": {
+          "X-Content-Type-Options": "nosniff",
+          "X-Frame-Options": "DENY",
+          "X-XSS-Protection": "1; mode=block"
+        },
+        "missing_headers": [
+          "Strict-Transport-Security",
+          "Content-Security-Policy",
+          "Referrer-Policy",
+          "Permissions-Policy"
+        ],
+        "total_security_headers": 3,
+        "missing_security_headers": 4
+      },
+      "cookies_analysis": [],
+      "authentication_issues": [],
+      "injection_attacks": [],
+      "file_upload_vulnerabilities": [],
+      "xml_attacks": [],
+      "command_injection": [],
+      "ldap_injection": [],
+      "template_injection": [],
+      "exposed_endpoints": [
+        {
+          "url": "https://app.easyclaim.ru/api/",
+          "status_code": 200,
+          "content_type": "text/html",
+          "content_length": 702,
+          "methods_tested": [
+            "GET"
+          ],
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/api/v1/",
+          "status_code": 200,
+          "content_type": "text/html",
+          "content_length": 702,
+          "methods_tested": [
+            "GET"
+          ],
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/api/v2/",
+          "status_code": 200,
+          "content_type": "text/html",
+          "content_length": 702,
+          "methods_tested": [
+            "GET"
+          ],
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/api/v3/",
+          "status_code": 200,
+          "content_type": "text/html",
+          "content_length": 702,
+          "methods_tested": [
+            "GET"
+          ],
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/rest/",
+          "status_code": 200,
+          "content_type": "text/html",
+          "content_length": 702,
+          "methods_tested": [
+            "GET"
+          ],
+          "severity": "MEDIUM"
+        },
+        {
+          "url": "https://app.easyclaim.ru/json/",
+          "status_code": 200,
+          "content_type": "text/html",
+          "content_length": 702,
+          "methods_tested": [
+            "GET"
+          ],
+          "severity": "MEDIUM"
+        }
+      ],
+      "api_security": {},
+      "errors": [
+        "test_sql_injection: 0"
+      ]
+    },
+    "https://api.easyclaim.ru": {
+      "basic_info": {
+        "url": "https://api.easyclaim.ru",
+        "status_code": 200,
+        "server": "nginx/1.29.0",
+        "ip_address": "176.124.218.170",
+        "title": "No title",
+        "response_time": 0.631359,
+        "content_length": 78,
+        "redirects": 0,
+        "final_url": "https://api.easyclaim.ru/"
+      },
+      "ssl_security": {
+        "certificate_valid": true,
+        "certificate_version": 3,
+        "issuer": [
+          [
+            [
+              "countryName",
+              "US"
+            ]
+          ],
+          [
+            [
+              "organizationName",
+              "Let's Encrypt"
+            ]
+          ],
+          [
+            [
+              "commonName",
+              "E8"
+            ]
+          ]
+        ],
+        "subject": [
+          [
+            [
+              "commonName",
+              "easyclaim.ru"
+            ]
+          ]
+        ],
+        "valid_from": "Sep 17 22:33:29 2025 GMT",
+        "valid_until": "Dec 16 22:33:28 2025 GMT",
+        "serial_number": "054E4FE6D746CF995A53488FD100BA84039B",
+        "cipher_suite": [
+          "TLS_AES_256_GCM_SHA384",
+          "TLSv1.3",
+          256
+        ],
+        "protocol_version": "TLSv1.3"
+      },
+      "directory_listing": [],
+      "path_traversal": [],
+      "sql_injection": [],
+      "xss_vulnerabilities": [],
+      "csrf_vulnerabilities": [],
+      "admin_panels": [],
+      "sensitive_files": [],
+      "configuration_issues": [],
+      "technology_identification": {
+        "Web Server": [
+          "Nginx"
+        ],
+        "CMS": [],
+        "Programming Language": [],
+        "JavaScript Framework": [],
+        "CSS Framework": [],
+        "Database": [],
+        "Other": []
+      },
+      "headers_security": {
+        "present_headers": {
+          "X-Content-Type-Options": "nosniff",
+          "X-Frame-Options": "DENY",
+          "X-XSS-Protection": "1; mode=block"
+        },
+        "missing_headers": [
+          "Strict-Transport-Security",
+          "Content-Security-Policy",
+          "Referrer-Policy",
+          "Permissions-Policy"
+        ],
+        "total_security_headers": 3,
+        "missing_security_headers": 4
+      },
+      "cookies_analysis": [],
+      "authentication_issues": [],
+      "injection_attacks": [],
+      "file_upload_vulnerabilities": [],
+      "xml_attacks": [],
+      "command_injection": [],
+      "ldap_injection": [],
+      "template_injection": [],
+      "exposed_endpoints": [],
+      "api_security": {},
+      "errors": [
+        "test_sql_injection: 0"
+      ]
+    }
+  },
+  "summary": {
+    "total_vulnerabilities": 84,
+    "critical_issues": 0,
+    "high_issues": 0,
+    "medium_issues": 84,
+    "low_issues": 0,
+    "domains_with_issues": 3
+  }
+}
